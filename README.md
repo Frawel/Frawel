@@ -1,6 +1,6 @@
 ## Frawel Sanchez
 
-Hi! I'm Daniel 🙋🏽‍♂️. I'm a software engineer:
+Hi! I'm Frawel 🙋🏽‍♂️. I'm a software engineer:
 
 
 ## Talk to me
