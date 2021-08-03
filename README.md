@@ -1,6 +1,6 @@
 ## Frawel Sanchez
 
-# [![Frawel Sanchez header](https://media-exp1.licdn.com/dms/image/C4E16AQFpuzSxl18_2A/profile-displaybackgroundimage-shrink_350_1400/0/1548796762038?e=1615420800&v=beta&t=3nCdPVFuPC41e0ANbbrbkg1HGZWrlkF6anK1dFRc_VM)](https://www.linkedin.com/in/frawel)
+# [![Frawel Sanchez header](https://user-images.githubusercontent.com/7443172/128084213-92eefdec-57f9-407b-ad29-e699876b3b53.jpeg)](https://www.linkedin.com/in/frawel)
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/frawel/"><img height="30" src="https://raw.githubusercontent.com/Frawel/Frawel/master/icons/linkedin.png"></a>&nbsp;&nbsp;
