@@ -13,6 +13,10 @@ Hi! I'm Frawel 🙋🏽‍♂️. I'm a software engineer:
 
 
 ## Talk to me
-Find me on twitter: https://twitter.com/frawel
+Find me on:
 
-Connect with me: https://www.linkedin.com/in/frawel
+Twitter: https://twitter.com/frawel
+
+StackOverflow: https://www.stackoverflow.com/users/3469302/frawel
+
+Linkedin: https://www.linkedin.com/in/frawel
